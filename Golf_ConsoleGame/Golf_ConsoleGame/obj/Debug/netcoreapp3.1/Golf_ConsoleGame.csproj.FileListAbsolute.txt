@@ -1,0 +1,13 @@
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.csprojAssemblyReference.cache
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.AssemblyInfo.cs
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\bin\Debug\netcoreapp3.1\Golf_ConsoleGame.exe
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\bin\Debug\netcoreapp3.1\Golf_ConsoleGame.deps.json
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\bin\Debug\netcoreapp3.1\Golf_ConsoleGame.runtimeconfig.json
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\bin\Debug\netcoreapp3.1\Golf_ConsoleGame.runtimeconfig.dev.json
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\bin\Debug\netcoreapp3.1\Golf_ConsoleGame.dll
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\bin\Debug\netcoreapp3.1\Golf_ConsoleGame.pdb
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.dll
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.pdb
+C:\Users\nuffe\source\repos\Golf_ConsoleGame\Golf_ConsoleGame\obj\Debug\netcoreapp3.1\Golf_ConsoleGame.genruntimeconfig.cache
